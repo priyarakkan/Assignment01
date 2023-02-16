@@ -20,4 +20,9 @@ if(name1 == "Rashmi")
 let complexExpression2 = (5 * 2) + 6 / 7   // complex expression2
 
 //STEP 4
-let firstName, strLastName, address, city, intZipCode, intYourAge, referralSource, blnMayWeContactYou
+//let firstName, strLastName, address, city, intZipCode, intYourAge, referralSource, blnMayWeContactYou
+
+//STEP 5
+
+let firstName = "priya"
+let strLastName = "rakkan"
