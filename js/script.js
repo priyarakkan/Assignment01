@@ -90,3 +90,8 @@ alert (`Hello ${userName}, welcome to the JavaScript class!`)
 // STEP 16
 let courseTaken = prompt("Which course are you taken?")
 alert (`Hello ${userName}, welcome to the ${courseTaken} class!`)
+
+// STEP 17
+let x1 = 10 , y1 = 20
+let sum = x1 + y1
+console.log(sum)
