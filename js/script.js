@@ -12,3 +12,9 @@ let myLibraryFunction
 true       //Boolean literal
 null       //literal null 
 
+//STEP 3
+let name1 = "Rashmi"
+if(name1 == "Rashmi")
+   alert('you can get it!')     // complex expression1
+
+let complexExpression2 = (5 * 2) + 6 / 7   // complex expression2
