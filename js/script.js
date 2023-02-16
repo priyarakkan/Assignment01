@@ -110,3 +110,7 @@ console.log(x1)
 x1 = 20
 x1 = x1 % 3
 console.log(x1)
+
+// STEP 21
+let a1 = 6, b1 = 7
+console.log(a1 == 6 && b1 == 7)
