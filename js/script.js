@@ -100,3 +100,8 @@ console.log(sum)
 x1 = 20
 x1 = x1 + 20
 console.log(x1)
+
+// STEP 19
+x1 = 20
+x1 = x1 * 5
+console.log(x1)
