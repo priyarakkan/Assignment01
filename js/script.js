@@ -114,3 +114,6 @@ console.log(x1)
 // STEP 21
 let a1 = 6, b1 = 7
 console.log(a1 == 6 && b1 == 7)
+
+//STEP 22
+console.log(a1 >= 8 || b1 == 8)   
