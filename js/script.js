@@ -75,3 +75,8 @@ alert ('Hello ' + studentFName +' ' + studentLName +  ', welcome to the JavaScri
 // STEP 12
 let name2 = "priya rakkan"
 alert (`Hello ${name2}, welcome to the JavaScript class!`)
+
+// STEP 13
+let course = 'JavaScript'
+alert (`Hello ${name2}, welcome to the ${course} class!`)
+
