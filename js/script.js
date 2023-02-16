@@ -18,3 +18,6 @@ if(name1 == "Rashmi")
    alert('you can get it!')     // complex expression1
 
 let complexExpression2 = (5 * 2) + 6 / 7   // complex expression2
+
+//STEP 4
+let firstName, strLastName, address, city, intZipCode, intYourAge, referralSource, blnMayWeContactYou
