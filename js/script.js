@@ -82,3 +82,7 @@ alert (`Hello ${name2}, welcome to the ${course} class!`)
 
 // STEP 14
 alert (`Hello ${name2}, \nwelcome to the ${course} class!`)
+
+// STEP 15
+let userName = prompt("What's your name?")
+alert (`Hello ${userName}, welcome to the JavaScript class!`)
