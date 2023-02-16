@@ -34,3 +34,8 @@ strLastName = "rakkan"
 
 const intZipCode = 62128
 alert(intZipCode)
+
+// STEP 6
+let grade = 1
+console.log('My kid is in ' + grade + ' grade')
+
