@@ -56,3 +56,13 @@ let w
 let u = null
 console.log(w)
 console.log(u)
+
+// STEP 10
+let x = 'Hi'
+let y = 11
+let z = true 
+console.log(typeof x)
+console.log(typeof y)
+console.log(typeof z)
+console.log(typeof w)
+console.log(typeof u)
