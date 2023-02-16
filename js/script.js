@@ -39,3 +39,10 @@ alert(intZipCode)
 let grade = 1
 console.log('My kid is in ' + grade + ' grade')
 
+// STEP 7
+let isStudent = true
+let a = 6
+let total = a + isStudent
+console.log('Are you a student : ' + isStudent)
+console.log(total)
+
