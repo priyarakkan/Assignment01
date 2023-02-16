@@ -80,3 +80,5 @@ alert (`Hello ${name2}, welcome to the JavaScript class!`)
 let course = 'JavaScript'
 alert (`Hello ${name2}, welcome to the ${course} class!`)
 
+// STEP 14
+alert (`Hello ${name2}, \nwelcome to the ${course} class!`)
