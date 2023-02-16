@@ -24,5 +24,13 @@ let complexExpression2 = (5 * 2) + 6 / 7   // complex expression2
 
 //STEP 5
 
+/* 
 let firstName = "priya"
 let strLastName = "rakkan"
+*/
+let firstName, strLastName
+firstName = "priya"
+strLastName = "rakkan"
+
+const intZipCode = 62128
+alert(intZipCode)
