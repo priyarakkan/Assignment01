@@ -51,3 +51,8 @@ console.log(total)
 let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."'
 console.log(someString)
 
+// STEP 9
+let w 
+let u = null
+console.log(w)
+console.log(u)
