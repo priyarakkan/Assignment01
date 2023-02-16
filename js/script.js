@@ -72,3 +72,6 @@ let studentFName = 'priya'
 let studentLName = 'rakkan'
 alert ('Hello ' + studentFName +' ' + studentLName +  ', welcome to the JavaScript class!')
 
+// STEP 12
+let name2 = "priya rakkan"
+alert (`Hello ${name2}, welcome to the JavaScript class!`)
