@@ -105,3 +105,8 @@ console.log(x1)
 x1 = 20
 x1 = x1 * 5
 console.log(x1)
+
+// STEP 20
+x1 = 20
+x1 = x1 % 3
+console.log(x1)
