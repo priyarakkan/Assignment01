@@ -95,3 +95,8 @@ alert (`Hello ${userName}, welcome to the ${courseTaken} class!`)
 let x1 = 10 , y1 = 20
 let sum = x1 + y1
 console.log(sum)
+
+// STEP 18
+x1 = 20
+x1 = x1 + 20
+console.log(x1)
