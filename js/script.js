@@ -70,5 +70,5 @@ console.log(typeof u)
 // STEP 11
 let studentFName = 'priya'
 let studentLName = 'rakkan'
-alert (`Hello ${studentFName} ${studentLName}, welcome to the JavaScript class!`)
+alert ('Hello ' + studentFName +' ' + studentLName +  ', welcome to the JavaScript class!')
 
