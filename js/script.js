@@ -46,3 +46,8 @@ let total = a + isStudent
 console.log('Are you a student : ' + isStudent)
 console.log(total)
 
+// STEP 8
+// invalid
+let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."'
+console.log(someString)
+
